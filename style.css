@@ -44,7 +44,7 @@ p{
  stroke-dasharray:1857px;
  stroke-dashoffset:1857px;
  fill:transparent;
- //animation: line-animation 1.5s ease forwards, fill-animation 1.5s ease forwards 1.5s,disappear 1s ease forwards 2.75s;
+ /* animation: line-animation 1.5s ease forwards, fill-animation 1.5s ease forwards 1.5s,disappear 1s ease forwards 2.75s; */
  animation: line-animation 1.5s ease forwards, fill-animation 1.5s ease forwards 1.5s;
 }
 

@@ -171,5 +171,5 @@ p{
 
 @font-face {
     font-family: 'HelveticaNeue';
-    src:url('https://noman-ali.github.io/Fonts/HelveticaNeueLt.ttf')format('truetype');
+    src:url('../noman-ali.github.io/Fonts/HelveticaNeueLt.ttf')format('truetype');
 }

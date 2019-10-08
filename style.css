@@ -171,5 +171,5 @@ p{
 
 @font-face {
     font-family: 'HelveticaNeue';
-    src:url('.././Fonts/HelveticaNeueLt.ttf')format('truetype');
+    src:url('../Fonts/HelveticaNeueLt.ttf')format('truetype');
 }

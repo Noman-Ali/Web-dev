@@ -48,6 +48,14 @@ p{
  animation: line-animation 1.5s ease forwards, fill-animation 1.5s ease forwards 1.5s;
 }
 
+/* .projectIcons{
+  position:absolute;
+  top:125%;
+  width:500px;
+  left:75%;
+  /* transform:translate(-750px, -1000px); */
+} */
+
 .banner{
   background-color:#1e5b80;
   position: absolute;
@@ -171,5 +179,5 @@ p{
 
 @font-face {
     font-family: 'HelveticaNeue';
-    src:url('Fonts/HelveticaNeueLt.ttf')format('truetype');
+    src:url('https://noman-ali.github.io/Style/Fonts/HelveticaNeueLt.ttf')format('truetype');
 }

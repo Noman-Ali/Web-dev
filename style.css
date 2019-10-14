@@ -5,12 +5,12 @@
 }
 html{
   overflow-y:scroll;
-  overflow-x:hidden;
+  /* overflow-x:hidden; */
 }
 body{
   width:100%;
   height:400vh;
-  background-color: #064972;
+  /* background-color: #474747; */
   /* display:flex;
   align-items: center;
   justify-content: center;
@@ -53,11 +53,11 @@ p{
   top:125%;
   width:500px;
   left:75%;
-  /* transform:translate(-750px, -1000px); */
+   transform:translate(-750px, -1000px);
 } */
 
 .banner{
-  background-color:#1e5b80;
+  background-color:#1c2336;
   position: absolute;
   top:0;
   padding:0;
@@ -68,7 +68,7 @@ p{
 
 .bannerBtns{
   color:#ffffff;
-  font-family: HelveticaNeue;
+  /* font-family: HelveticaNeue; */
   font-size: 14px;
   font-weight: lighter;
   margin-top: 14px;
@@ -147,6 +147,7 @@ p{
   background: #ffffff;
   border: 1px solid #064972;
 }
+
 
 
 @keyframes line-animation {

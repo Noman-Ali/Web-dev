@@ -9,3 +9,8 @@ html{
 body{
   background-color:#29324d;
 }
+
+.name{
+  position:sticky;
+  
+}

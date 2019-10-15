@@ -21,4 +21,5 @@ body{
 #Layer_1{
   display: block;
   margin: auto;
+  vertical-align: middle;
 }

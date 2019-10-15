@@ -12,13 +12,11 @@ body{
 
 .name{
   position:sticky;
-  /* top:0; */
-  /* transform:translate(0, 0.5*100vh); */
+  top:0;
+  transform:translate(0, 0.5*100vh);
   height:100%;
   width:100%;
-  top: 50%;
-  /* -ms-transform: translateY(-50%); */
-  transform: translateY(-50%);
+
 }
 
 #Layer_1{
